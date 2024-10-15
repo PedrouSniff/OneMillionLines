@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ligne1 {
+    width: 2px;
+    height: 2px;
+    border: solid ;
+}
